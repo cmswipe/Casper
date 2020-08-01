@@ -30,7 +30,7 @@ One neat trick is that you can also create custom one-off templates by adding th
 - `author-ali.hbs` - Custom template for `/author/ali/` archive
 
 
-# Development
+# Development for example
 
 Casper styles are compiled using Gulp/PostCSS to polyfill future CSS spec. You'll need [Node](https://nodejs.org/), [Yarn](https://yarnpkg.com/) and [Gulp](https://gulpjs.com) installed globally. After that, from the theme's root directory:
 
